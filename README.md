@@ -1,5 +1,6 @@
 <h1 align="center">🪄 I'm iOS Developer.</h1>
-![E8F9942D-57A4-413C-A5BA-F87EF246AA09_1_105_c](https://github.com/a-mystic/a-mystic/assets/57480798/28e1125b-4cf3-4c97-89ce-26c188d1f7b4)
+<img src="https://github.com/a-mystic/a-mystic/assets/57480798/897342d6-dfa6-4550-a1ba-f107c91d5320"/>
+
 <h3 align="center"> WWDC23 Swift Student Challenge Winner</h3>
 
 <h3 align="left">Connect with me: totocaca@naver.com</h3>
