@@ -15,6 +15,3 @@
 
 <h3 align="left">Apps:</h3>
 
-![100](https://github.com/a-mystic/a-mystic/assets/57480798/3dd06fbb-8a18-42fa-8bb0-d2cc245a3069)<br>
-<a href="https://apps.apple.com/kr/app/dogweight/id6450584449?l=en-GB">DogWeight</a><br>
-![100](https://github.com/a-mystic/a-mystic/assets/57480798/c2d52c7a-52d2-44e6-9564-1481c8af2dad)
