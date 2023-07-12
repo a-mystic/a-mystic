@@ -17,7 +17,7 @@
 
 | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/fd1d4c63-11f7-4344-9a6b-de227f0f9394)  | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/0cd17554-7b0e-45c7-a88f-70916639c927)  | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/80516cda-eae5-4f53-ac5a-aa48d99118e2) |
 |:---:|:---:|:---:|
-| [DogWeight](https://apps.apple.com/kr/app/dogweight/id6450584449?l=en-GB)  | [양심 영단어](https://apps.apple.com/us/app/%EC%96%91%EC%8B%AC-%EC%98%81%EB%8B%A8%EC%96%B4/id6451104864)  | [Detective]() |
+| [DogWeight](https://apps.apple.com/kr/app/dogweight/id6450584449?l=en-GB)  | [양심 영단어](https://apps.apple.com/us/app/%EC%96%91%EC%8B%AC-%EC%98%81%EB%8B%A8%EC%96%B4/id6451104864)  | [Detective(WWDC23 Swift Student Challenge 우승작)]() |
 
 <!--
 add apps 3 * 1
