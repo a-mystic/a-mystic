@@ -1,6 +1,6 @@
 <h1 align="center">🪄 I'm iOS Developer.</h1>
 <p align="center">
-  <img src="https://github.com/a-mystic/a-mystic/assets/57480798/897342d6-dfa6-4550-a1ba-f107c91d5320" width="600" height="444"/>
+  <img src="https://github.com/a-mystic/a-mystic/assets/57480798/897342d6-dfa6-4550-a1ba-f107c91d5320" width="400" height="300"/>
 </p>
 
 <h3 align="center"> WWDC23 Swift Student Challenge Winner</h3>
@@ -15,3 +15,32 @@
 
 <h3 align="left">Apps:</h3>
 
+| ![100](https://github.com/a-mystic/a-mystic/assets/57480798/fd1d4c63-11f7-4344-9a6b-de227f0f9394)  | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/0cd17554-7b0e-45c7-a88f-70916639c927)  |
+|:---:|:---:|
+| [DogWeight](https://apps.apple.com/kr/app/dogweight/id6450584449?l=en-GB)  | [양심영단어]()  |
+
+
+<!--
+add apps 5 * 2
+
+| [app1Image](ImagesourceUrl) 	| [app2Image](ImagesourceUrl) 	| [app3Image](ImagesourceUrl) 	| [app4Image](ImagesourceUrl) 	| [app5Image](ImagesourceUrl) 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|
+| [app1](appUrl) 	| [app2](appUrl) 	| [app3](appUrl) 	| [app4](appUrl) 	| [app5](appUrl) 	|
+| [app6Image](ImagesourceUrl) 	| [app7Image](ImagesourceUrl) 	| [app8Image](ImagesourceUrl) 	| [app9Image](ImagesourceUrl) 	|  	|
+| [app6](appUrl) 	| [app7](appUrl) 	| [app8](appUrl) 	| [app9](appUrl) 	|  	|
+
+-->
+
+
+<!--
+add apps 5 * 3
+
+| [app1Image](ImagesourceUrl) 	| [app2Image](ImagesourceUrl) 	| [app3Image](ImagesourceUrl) 	| [app4Image](ImagesourceUrl) 	| [app5Image](ImagesourceUrl) 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|
+| [app1](appUrl) 	| [app2](appUrl) 	| [app3](appUrl) 	| [app4](appUrl) 	| [app5](appUrl) 	|
+| [app6Image](ImagesourceUrl) 	| [app7Image](ImagesourceUrl) 	| [app8Image](ImagesourceUrl) 	| [app9Image](ImagesourceUrl) 	|  [app10Image](ImagesourceUrl)	|
+| [app6](appUrl) 	| [app7](appUrl) 	| [app8](appUrl) 	| [app9](appUrl) 	| [app10](appUrl) |
+| [app11Image](ImagesourceUrl) 	| [app12Image](ImagesourceUrl) 	| [app13Image](ImagesourceUrl) 	| [app14Image](ImagesourceUrl) | [app15Image](ImagesourceUrl) |
+| [app11](appUrl) 	| [app12](appUrl) 	| [app13](appUrl) | [app14](appUrl) | [app15](appUrl) 	|
+
+-->
