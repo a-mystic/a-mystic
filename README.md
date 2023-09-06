@@ -19,8 +19,8 @@
 | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/fd1d4c63-11f7-4344-9a6b-de227f0f9394)  | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/0cd17554-7b0e-45c7-a88f-70916639c927)  | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/80516cda-eae5-4f53-ac5a-aa48d99118e2) |
 |:---:|:---:|:---:|
 | [DogWeight](https://apps.apple.com/kr/app/dogweight/id6450584449?l=en-GB)  | [양심 영단어](https://apps.apple.com/us/app/%EC%96%91%EC%8B%AC-%EC%98%81%EB%8B%A8%EC%96%B4/id6451104864)  | [Detective(WWDC23 Swift Student Challenge 우승작(실제 작품과는 약간 다릅니다.))](https://apps.apple.com/us/app/detective-mystics/id6451191596) |
-| ![100](https://github.com/a-mystic/a-mystic/assets/57480798/43f9f1f1-beb3-4bee-8904-64bc8a9a9224) |
-| [Hounder](https://apps.apple.com/us/app/hounder-%EC%A7%91%EC%97%90%EC%84%9C-%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0-%EB%AC%BC%EA%B1%B4%EC%B0%BE%EA%B8%B0/id6460586343) | [개발중] | [개발예정]
+| ![100](https://github.com/a-mystic/a-mystic/assets/57480798/43f9f1f1-beb3-4bee-8904-64bc8a9a9224) | ![114](https://github.com/a-mystic/a-mystic/assets/57480798/a7acad14-72f3-413a-8fef-d0e4c8e86d67)
+| [Hounder](https://apps.apple.com/us/app/hounder-%EC%A7%91%EC%97%90%EC%84%9C-%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0-%EB%AC%BC%EA%B1%B4%EC%B0%BE%EA%B8%B0/id6460586343) | [CountingSheep - Sleeping & Drinking](https://apps.apple.com/kr/app/countingsheep/id6464362675?l=en-GB) | [개발예정]
 
 <!--
 | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/fd1d4c63-11f7-4344-9a6b-de227f0f9394)  | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/0cd17554-7b0e-45c7-a88f-70916639c927)  | ![100](https://github.com/a-mystic/a-mystic/assets/57480798/80516cda-eae5-4f53-ac5a-aa48d99118e2) |
