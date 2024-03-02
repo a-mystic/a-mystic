@@ -1,6 +1,6 @@
 <h1 align="center">🪄 I'm iOS Developer.</h1>
 <p align="center">
-  <img src="https://github.com/a-mystic/a-mystic/assets/57480798/897342d6-dfa6-4550-a1ba-f107c91d5320" width="400" height="300"/>
+  <img src="https://github.com/a-mystic/a-mystic/assets/57480798/897342d6-dfa6-4550-a1ba-f107c91d5320" width="500" height="350"/>
 </p>
 
 <h3 align="center"> WWDC23 Swift Student Challenge Winner</h3>
